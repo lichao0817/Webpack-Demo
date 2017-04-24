@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/lichao0817/webpack-demo/issues"
   },
-  "homepage": "https://github.com/lichao0817/webpack-demo#readme"
+  "homepage": "https://github.com/lichao0817/webpack-demo#readme",
+  "devDependencies": {
+    "webpack": "^2.2.0-rc.0"
+  }
 }
