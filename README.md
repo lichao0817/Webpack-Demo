@@ -6,3 +6,7 @@
 5. Configure the webpack.config.js
 6. Change the script in package.json, call it build
 7. npm run build
+8. npm install --save-dev babel-loader babel-core babel-preset-env
+9. npm install --save-dev style-loader css-loader
+10. npm install --save-dev extract-text-webpack-plugin
+11. npm install --save-dev image-webpack-loader url-loader
